@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FacebookLogin</string>
+    <string name="facebook_logo">Facebook Logo</string>
+    <string name="email_hint">Email or Phone</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Log In</string>
+    <string name="signup_text">Sign Up for Facebook</string>
+    <string name="title_activity_bmi">BMI</string>
+</resources>
